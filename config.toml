@@ -29,8 +29,8 @@ theme = "aafu"
     # Profile section
     [params.profile]
         name = "Iqbal Pratama"
-		tagline = "HVAC Engineer"
-		location = "Yogyakarta, ID"
+		tagline = "⚔️ HVAC Engineer"
+		location = "📌 Yogyakarta, ID"
         photo = "iqball.jpg"
 
     # Section for links to social websites
