@@ -52,9 +52,13 @@ theme = "aafu"
             icon = "fa-github"
             url = "https://github.com/iqbalprtm"
             title = "GitHub"
+        [[params.social.list]]
+            class = "fab"
+            icon = "fa-instagram"
+            url = "https://www.instagram.com/iqbalpratama_98/"
+            title = "instagram"
         
-
-
+        
     #Specify what is showin in the Accordion
     [[params.showInAccordion]]
         item = "aboutme"
