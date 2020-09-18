@@ -126,18 +126,7 @@ theme = "aafu"
             title = "project"
             url = "#"
             description = "Description of the project"
-        [[params.project.list]]
-            title = "project"
-            url = "#"
-            description = "Description of the project"
-        [[params.project.list]]
-            title = "project"
-            url = "#"
-            description = "Description of the project"
-        [[params.project.list]]
-            title = "project"
-            url = "#"
-            description = "Description of the project"            
+            
 
     # Skill section
     [params.skill]
@@ -146,14 +135,26 @@ theme = "aafu"
         icon = "fas fa-cogs"
 
         [[params.skill.list]]
-            skill = "Skill 1, Skill 2"
-            skillrating = 90
+            skill = "Office Iventory"
+            skillrating = 78
         [[params.skill.list]]
-            skill = "Skill 3"
+            skill = "Negotiation Skill"
+            skillrating = 65
+        [[params.skill.list]]
+            skill = "Ms Office & AutoCAD"
             skillrating = 80
         [[params.skill.list]]
-            skill = "Skill 4"
-            skillrating = 50
+            skill = "Instalasi Listrik Gedung"
+            skillrating = 78
+
+        [[params.skill.list]]
+            skill = "Tata Ruang Gedung"
+            skillrating = 55
+
+        [[params.skill.list]]
+            skill = "Maintenace Gedung (Listrik, Air & Internet)"
+            skillrating = 55
+
 
     # Hobby section
     [params.hobby]
@@ -162,7 +163,4 @@ theme = "aafu"
 		
         [[params.hobby.list]]		
 		    hobby = "Video Editing"
-        [[params.hobby.list]]		
-		    hobby = "Elektronika"
-        [[params.hobby.list]]		
-		    hobby = "Mesin"
+
