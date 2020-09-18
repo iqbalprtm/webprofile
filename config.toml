@@ -52,10 +52,7 @@ theme = "aafu"
             icon = "fa-github"
             url = "https://github.com/iqbalprtm"
             title = "GitHub"
-        [[params.social.list]]
-            class = "fab"
-            icon = "fa-twitter"
-            url = "#"
+        
 
 
     #Specify what is showin in the Accordion
