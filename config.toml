@@ -40,17 +40,17 @@ theme = "aafu"
         [[params.social.list]]
             class = "fab"
             icon = "fa-linkedin-in"
-            url = "#"
+            url = "https://www.linkedin.com/in/iqbal-pratamaa/"
             title = "LinkedIn"		
         [[params.social.list]]
             class = "fab"
             icon = "fa-stack-overflow"
-            url = "#"
+            url = "https://www.facebook.com/profile.php?id=100033309741244"
             title = "StackOverflow"
         [[params.social.list]]
             class = "fab"
             icon = "fa-github"
-            url = "#"
+            url = "https://github.com/iqbalprtm"
             title = "GitHub"
         [[params.social.list]]
             class = "fab"
