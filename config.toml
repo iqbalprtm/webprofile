@@ -44,7 +44,7 @@ theme = "aafu"
             title = "LinkedIn"		
         [[params.social.list]]
             class = "fab"
-            icon = "fa-stack-overflow"
+            icon = "fa-facebook"
             url = "https://www.facebook.com/profile.php?id=100033309741244"
             title = "StackOverflow"
         [[params.social.list]]
