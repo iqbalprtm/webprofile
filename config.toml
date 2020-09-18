@@ -88,7 +88,7 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "**Hallo, nama saya Iqbal Pratama**, saya berpengalaman lebih dari 3 tahun di bidang Sales Marketing dan General Affair."
+        description = "**Hallo, nama saya Iqbal Pratama**, saya berpengalaman lebih dari 3 tahun di bidang General Affair dan Sales Marketing."
 
     # Experience section
     [params.experience]
