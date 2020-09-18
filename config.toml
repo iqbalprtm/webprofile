@@ -60,17 +60,17 @@ theme = "aafu"
         item = "Aboutme"
         expand = true   # true for the section that is initially expanded
     [[params.showInAccordion]]
-        item = "Pengalaman kerja"
+        item = "experience"
     [[params.showInAccordion]]
-        item = "Pendidikan"
+        item = "education"
     [[params.showInAccordion]]
         item = "publication"
     [[params.showInAccordion]]
-        item = "Project"
+        item = "project"
     [[params.showInAccordion]]
-        item = "Skill"
+        item = "skill"
     [[params.showInAccordion]]
-        item = "Hobi"
+        item = "hobby"
 
     [params.aboutme]
         title = "About Me"
