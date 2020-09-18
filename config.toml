@@ -62,6 +62,11 @@ theme = "aafu"
             icon = "fa-whatsapp"
             url = "https://wa.link/ybqwe0"
             title = "wa"
+        [[params.social.list]]
+            class = "fab"
+            icon = "fa-telegram"
+            url = "https://t.me/iqbalpratama_98"
+            title = "wa"
         
     #Specify what is showin in the Accordion
     [[params.showInAccordion]]
