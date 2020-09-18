@@ -108,21 +108,11 @@ theme = "aafu"
         icon = "fas fa-graduation-cap"
 
         [[params.education.list]]
-            degree = "Ph.D. in Subject"
-            college = "University of State-City"
+            degree = "Otomotif"
+            college = "SMK BERBUDI GANTIWARNO KLATEN JAWA TENGAH"
             dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_link = "#"
-        [[params.education.list]]
-            degree = "M.S. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_link = "#"
-        [[params.education.list]]
-            degree = "B.S. in Subject"
-            college = "University of State-City"
-            dates = "2004 - 2009"
+            thesis_title = ""
+            thesis_link = "https://goo.gl/maps/XHdWkWgdJ1pnL48d9"
 
     # Publication section
     [params.publication]
