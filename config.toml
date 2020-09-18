@@ -83,16 +83,25 @@ theme = "aafu"
         icon = "fas fa-briefcase"
 
         [[params.experience.list]]
-            position = "Job Title"
-            dates = "2019 - *Present*"
-            company = "Company Name"
-            details = "Printed from desktop. Sent [emails](#). Called people using telephone. Drank water from office cooler. Ate donuts on people's birthdays."
+            position = "Business Consultant"
+            dates = "April 2020 - Sekarang"
+	    link = "https://goo.gl/maps/iya2WXY2Bk6vupBr6"
+            company = "PT. DIDIMAX BERJANGKA YOGYAKARTA"
+            details = "Menerangkan kepada nasabah tentang bisnis trading forex"
         [[params.experience.list]]
-            position = "Job Title"
-            dates = "2018 - 2019"
-            link = "#"
-            company = "Company Name"
+            position = "Marketing"
+            dates = "November 2019 - February 2020"
+            link = "https://goo.gl/maps/6qhWvQ8mjW3Y8uvn6"
+            company = "Kredit Plus"
+	    details = "Mencari dan menawarkan credit kepada calon customer dan menjelaskan presedural pengajuan credit kepada customer"
 
+        [[params.experience.list]]
+            position = "General Affair"
+            dates = "Agustus 2018 - Agustus 2019"
+            link = "https://goo.gl/maps/FQbEtGpTs455R4uA7"
+            company = "PT.Telmark Integrasi Indonesia"
+	    details = "Inventory asset perusahaan setiap bulan dan menangani proses pemeliharaan bangunan operasional terutama sipil"
+	    
     # Education section
     [params.education]
         title = "Pendidikan"
