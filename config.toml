@@ -79,7 +79,7 @@ theme = "aafu"
 
     # Experience section
     [params.experience]
-        title = "Experiences"
+        title = "Pengalaman"
         icon = "fas fa-briefcase"
 
         [[params.experience.list]]
@@ -95,7 +95,7 @@ theme = "aafu"
 
     # Education section
     [params.education]
-        title = "Education"
+        title = "Pendidikan"
         icon = "fas fa-graduation-cap"
 
         [[params.education.list]]
@@ -188,7 +188,7 @@ theme = "aafu"
 
     # Hobby section
     [params.hobby]
-        title = "Hobbies"
+        title = "Hobi"
         icon = "fas fa-gamepad"
 		
         [[params.hobby.list]]		
