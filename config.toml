@@ -64,6 +64,8 @@ theme = "aafu"
     [[params.showInAccordion]]
         item = "Pendidikan"
     [[params.showInAccordion]]
+        item = "publication"
+    [[params.showInAccordion]]
         item = "Project"
     [[params.showInAccordion]]
         item = "Skill"
