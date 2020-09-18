@@ -29,7 +29,7 @@ theme = "aafu"
     # Profile section
     [params.profile]
         name = "Iqbal Pratama"
-		tagline = "Title"
+		tagline = "job Seeker"
 		location = "Yogyakarta, ID"
         photo = "iqball.jpg"
 
