@@ -57,20 +57,18 @@ theme = "aafu"
 
     #Specify what is showin in the Accordion
     [[params.showInAccordion]]
-        item = "aboutme"
+        item = "Aboutme"
         expand = true   # true for the section that is initially expanded
     [[params.showInAccordion]]
-        item = "experience"
+        item = "Pengalaman kerja"
     [[params.showInAccordion]]
-        item = "education"
+        item = "Pendidikan"
     [[params.showInAccordion]]
-        item = "publication"
+        item = "Project"
     [[params.showInAccordion]]
-        item = "project"
+        item = "Skill"
     [[params.showInAccordion]]
-        item = "skill"
-    [[params.showInAccordion]]
-        item = "hobby"
+        item = "Hobi"
 
     [params.aboutme]
         title = "About Me"
