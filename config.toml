@@ -31,7 +31,7 @@ theme = "aafu"
         name = "Iqbal Pratama"
 		tagline = "job Seeker"
 		location = "Yogyakarta, ID"
-        photo = "iqball.jpg"
+        photo = "iqball
 
     # Section for links to social websites
     [params.social]
@@ -78,7 +78,9 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "**hallo nama saya Iqbal Pratama**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        description = "**hallo nama saya Iqbal Pratama**, saya bekerja selama 3 tahun di bidang yang berbeda yaitu penjual, general affair, update inventory dll  
+	
+	"
 
     # Experience section
     [params.experience]
