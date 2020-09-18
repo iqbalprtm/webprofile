@@ -195,8 +195,8 @@ theme = "aafu"
         icon = "fas fa-gamepad"
 		
         [[params.hobby.list]]		
-		    hobby = "Cooking"
+		    hobby = "Video Editing"
         [[params.hobby.list]]		
-		    hobby = "Hiking"
+		    hobby = "Elektronika"
         [[params.hobby.list]]		
-		    hobby = "Baking"
+		    hobby = "Mesin"
