@@ -138,7 +138,7 @@ theme = "aafu"
         [[params.project.list]]
             title = "project"
             url = "#"
-            description = "Description of the project"
+            description = ""
             
 
     # Skill section
