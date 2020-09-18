@@ -149,23 +149,23 @@ theme = "aafu"
 
         [[params.skill.list]]
             skill = "Office Iventory"
-            skillrating = 78
+            skillrating = 82
         [[params.skill.list]]
-            skill = "Negotiation Skill"
-            skillrating = 65
+            skill = "Maintenace Gedung (Listrik, Air & Internet)"
+            skillrating = 95
         [[params.skill.list]]
-            skill = "Ms Office & AutoCAD"
+            skill = "Tata Ruang Gedung"
             skillrating = 80
         [[params.skill.list]]
             skill = "Instalasi Listrik Gedung"
             skillrating = 78
 
         [[params.skill.list]]
-            skill = "Tata Ruang Gedung"
-            skillrating = 55
+            skill = "HVAC"
+            skillrating = 80
 
         [[params.skill.list]]
-            skill = "Maintenace Gedung (Listrik, Air & Internet)"
+            skill = "Ms Office & Sketchup 3D design "
             skillrating = 55
 
 
