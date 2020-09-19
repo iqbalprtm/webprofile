@@ -96,7 +96,7 @@ theme = "aafu"
         icon = "fas fa-briefcase"
 
         [[params.experience.list]]
-            position = "Business Consultant"
+            position = "Telemarketing"
             dates = "April 2020 - Sekarang"
 	    link = "https://goo.gl/maps/iya2WXY2Bk6vupBr6"
             company = "PT. DIDIMAX BERJANGKA YOGYAKARTA"
