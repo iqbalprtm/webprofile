@@ -123,7 +123,7 @@ theme = "aafu"
         [[params.education.list]]
             degree = "Otomotif"
             college = "SMK BERBUDI GANTIWARNO KLATEN JAWA TENGAH"
-            dates = "2013 - 2018"
+            dates = "2013 - 2016"
             thesis_title = "My School"
             thesis_link = "https://goo.gl/maps/XHdWkWgdJ1pnL48d9"
 
